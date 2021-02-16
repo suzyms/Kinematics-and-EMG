@@ -13,4 +13,6 @@ Statictrunkangles - Creates a local body segment coordinate frame for the trunk 
 
 Dynamictrunkangles - Calulates trunk motion in the saggital plane assuming two-dimensional motion.
 
+emg_filtering - Filters and normalises raw EMG data 
+
 
