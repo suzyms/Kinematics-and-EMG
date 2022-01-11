@@ -15,7 +15,7 @@ end_frame=double(endframe);
 [XRAS, YRAS, ZRAS] = SDK.GetTrajectory( subject, 'RASIS' );
 [XLAS, YLAS, ZLAS] = SDK.GetTrajectory( subject, 'LASIS' );
 
-%%
+%%%%
 %Define dynamic angle
 x_angle=zeros(1,end_frame);
 y_angle=zeros(1,end_frame);
